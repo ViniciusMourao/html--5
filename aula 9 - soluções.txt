@@ -1,0 +1,19 @@
+ - 9b  (altura do menu)
+
+div#interface {
+.......
+margin: 30px auto 10px auto;
+...........
+}
+
+--- **** ---- ***** --- **** ---- ***** --- **** ---- *****
+ 
+- 9e - fonte
+
+Importar da internet a fonte Pacifico
+
+@charset="UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+
+--- **** ---- ***** --- **** ---- ***** --- **** ---- *****
